@@ -32,7 +32,7 @@ This application is for reference purposes only. Each crew member remains respon
 ### Contact Support
 
 For technical support or questions about the app, please contact:
-- Email: [Your Email]
+- Email: supportduty@g,ail.com
 - Response time: Within 48 hours
 
 ### FAQ
